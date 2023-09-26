@@ -30,7 +30,7 @@ public class CLASE2 {
         boolean logico=true;
         boolean logico2=false;
 
-        char val3=´a´
+
 
     }
 }
