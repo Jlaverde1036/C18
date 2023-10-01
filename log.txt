@@ -1,0 +1,22 @@
+multiplicacion:10*20=200
+numero de iteraciones:0
+multiplicacion:5*10=50
+multiplicacion:6*10=60
+multiplicacion:7*10=70
+multiplicacion:8*10=80
+multiplicacion:9*10=90
+multiplicacion:10*10=100
+multiplicacion:11*10=110
+numero de iteraciones:0
+multiplicacion:2*5=10
+multiplicacion:3*5=15
+multiplicacion:4*5=20
+multiplicacion:5*5=25
+multiplicacion:6*5=30
+multiplicacion:7*5=35
+multiplicacion:8*5=40
+multiplicacion:9*5=45
+multiplicacion:10*5=50
+multiplicacion:11*5=55
+multiplicacion:12*5=60
+multipli
